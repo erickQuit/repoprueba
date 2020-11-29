@@ -11,3 +11,8 @@ master 1
 master 2
 
 aprendido nuevo
+<<<<<<< HEAD
+=======
+incluye nuevos temas
+disponibilidad total
+>>>>>>> archivo-mejorado
