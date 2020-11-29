@@ -12,3 +12,4 @@ master 2
 
 aprendido nuevo
 incluye nuevos temas
+disponibilidad total
