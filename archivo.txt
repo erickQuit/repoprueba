@@ -2,7 +2,7 @@ hola
 mi nombre es erick quiteño
 soy de el salvador
 
-experimento 100
+experimento 1000
 
 experimento 2
 
