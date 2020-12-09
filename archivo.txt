@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hola
 mi nombre es erick quiteño
 soy de el salvador
@@ -14,3 +15,6 @@ aprendido nuevo
 incluye nuevos temas
 disponibilidad total
 nuevo temass
+=======
+Este es el cambio nuevo que se realizo
+>>>>>>> 3be51f980a1db07fec60a6aac9b557a02cad8992
